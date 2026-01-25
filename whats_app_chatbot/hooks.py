@@ -11,22 +11,22 @@ app_license = "mit"
 # required_apps = []
 
 # Each item in the list will be shown as an app in the apps page
-# add_to_apps_screen = [
-# 	{
-# 		"name": "whats_app_chatbot",
-# 		"logo": "/assets/whats_app_chatbot/logo.png",
-# 		"title": "Bot Message",
-# 		"route": "/whats_app_chatbot",
-# 		"has_permission": "whats_app_chatbot.api.permission.has_app_permission"
-# 	}
-# ]
+add_to_apps_screen = [
+	{
+		"name": "whats_app_chatbot",
+		"logo": "/assets/whats_app_chatbot/logo.png",
+		"title": "Bot Message",
+		"route": "/whats_app_chatbot",
+		"has_permission": "whats_app_chatbot.api.permission.has_app_permission"
+	}
+]
 
 # Includes in <head>
 # ------------------
 
 # include js, css files in header of desk.html
 # app_include_css = "/assets/whats_app_chatbot/css/whats_app_chatbot.css"
-# app_include_js = "/assets/whats_app_chatbot/js/whats_app_chatbot.js"
+app_include_js = "/assets/whats_app_chatbot/js/whats_app_chatbot.js"
 
 # include js, css files in header of web template
 # web_include_css = "/assets/whats_app_chatbot/css/whats_app_chatbot.css"

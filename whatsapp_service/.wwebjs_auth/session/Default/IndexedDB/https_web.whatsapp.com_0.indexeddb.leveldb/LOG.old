@@ -1,0 +1,37 @@
+2026/01/26-00:46:57.039 8502 Reusing MANIFEST /home/satish/bench/frappe-bench/apps/whats_app_chatbot/whatsapp_service/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/01/26-00:46:57.040 8502 Recovering log #360
+2026/01/26-00:46:57.125 8502 Reusing old log /home/satish/bench/frappe-bench/apps/whats_app_chatbot/whatsapp_service/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000360.log 
+2026/01/26-00:47:59.167 8502 Level-0 table #376: started
+2026/01/26-00:47:59.221 8502 Level-0 table #376: 1144817 bytes OK
+2026/01/26-00:47:59.224 8502 Delete type=0 #360
+2026/01/26-00:48:04.634 8502 Compacting 1@0 + 1@1 files
+2026/01/26-00:48:04.709 8502 Generated table #377@0: 27245 keys, 562439 bytes
+2026/01/26-00:48:04.712 8502 Generated table #378@0: 15 keys, 2319 bytes
+2026/01/26-00:48:04.712 8502 Compacted 1@0 + 1@1 files => 564758 bytes
+2026/01/26-00:48:04.714 8502 compacted to: files[ 0 2 11 0 0 0 0 ]
+2026/01/26-00:48:04.716 8502 Compacting 1@1 + 10@2 files
+2026/01/26-00:48:04.863 8502 Generated table #379@1: 54057 keys, 2215330 bytes
+2026/01/26-00:48:04.987 8502 Generated table #380@1: 44569 keys, 2209952 bytes
+2026/01/26-00:48:05.012 8502 Generated table #381@1: 721 keys, 2131571 bytes
+2026/01/26-00:48:05.085 8502 Generated table #382@1: 2381 keys, 2148520 bytes
+2026/01/26-00:48:05.138 8502 Generated table #383@1: 1652 keys, 2143674 bytes
+2026/01/26-00:48:05.254 8502 Generated table #384@1: 20747 keys, 2232316 bytes
+2026/01/26-00:48:05.389 8502 Generated table #385@1: 28526 keys, 2253980 bytes
+2026/01/26-00:48:05.469 8502 Generated table #386@1: 25218 keys, 2150738 bytes
+2026/01/26-00:48:05.661 8502 Generated table #387@1: 97493 keys, 2247646 bytes
+2026/01/26-00:48:05.820 8502 Generated table #388@1: 87129 keys, 2081205 bytes
+2026/01/26-00:48:05.820 8502 Compacted 1@1 + 10@2 files => 21814932 bytes
+2026/01/26-00:48:05.824 8502 compacted to: files[ 0 1 11 0 0 0 0 ]
+2026/01/26-00:48:05.825 8502 Delete type=2 #366
+2026/01/26-00:48:05.825 8502 Delete type=2 #368
+2026/01/26-00:48:05.825 8502 Delete type=2 #377
+2026/01/26-00:48:05.825 8502 Delete type=2 #376
+2026/01/26-00:48:05.825 8502 Delete type=2 #371
+2026/01/26-00:48:05.825 8502 Delete type=2 #364
+2026/01/26-00:48:05.825 8502 Delete type=2 #372
+2026/01/26-00:48:05.826 8502 Delete type=2 #367
+2026/01/26-00:48:05.826 8502 Delete type=2 #370
+2026/01/26-00:48:05.826 8502 Delete type=2 #369
+2026/01/26-00:48:05.826 8502 Delete type=2 #365
+2026/01/26-00:48:05.826 8502 Delete type=2 #373
+2026/01/26-00:48:05.826 8502 Delete type=2 #363

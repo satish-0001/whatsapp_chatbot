@@ -1,0 +1,3 @@
+2026/01/26-00:53:04.187 8d06 Reusing MANIFEST /home/satish/bench/frappe-bench/apps/whats_app_chatbot/whatsapp_service/.wwebjs_auth/session/Default/Sync Data/LevelDB/MANIFEST-000001
+2026/01/26-00:53:04.189 8d06 Recovering log #3
+2026/01/26-00:53:04.189 8d06 Reusing old log /home/satish/bench/frappe-bench/apps/whats_app_chatbot/whatsapp_service/.wwebjs_auth/session/Default/Sync Data/LevelDB/000003.log 
